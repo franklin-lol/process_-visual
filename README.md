@@ -40,6 +40,7 @@ cd proc.visual.py`
 Install dependencies:
 
 `pip install -r requirements.txt`
+
 Run the script:
 
 `python proc.visual.py`
