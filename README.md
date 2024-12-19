@@ -43,5 +43,5 @@ Install dependencies:
 
 Run the script:
 
-`python proc.visual.py`
+`python process_-visual.py`
 
