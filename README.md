@@ -30,3 +30,17 @@ Switch Number Systems: Toggle between HEX and DEC for input and output.
 Requirements
 Python 3.10 or newer
 Libraries listed in the requirements.txt
+
+How to Run
+Clone the repository:
+bash
+Копировать код
+`git clone https://github.com/franklin-lol/proc.visual.py.git
+cd proc.visual.py`
+Install dependencies:
+bash
+`pip install -r requirements.txt`
+Run the script:
+bash
+`python proc.visual.py`
+
