@@ -15,6 +15,7 @@ Copyable list of free ranges for further use.
 This tool is particularly useful for tasks involving huge numeric datasets, such as cryptographic calculations or big integer simulations.
 
 Screenshots
+
 ![image](https://github.com/user-attachments/assets/98e83ba8-d486-469a-88c3-71ed27637fc7)
 ![image](https://github.com/user-attachments/assets/15d8c7bf-cc8b-4971-ae5a-44c244f4e4ab)
 
