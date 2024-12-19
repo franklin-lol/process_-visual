@@ -34,8 +34,8 @@ Libraries listed in the requirements.txt
 How to Run
 Clone the repository:
 
-`git clone https://github.com/franklin-lol/proc.visual.py.git
-cd proc.visual.py`
+`git clone https://github.com/franklin-lol/process_-visual.git
+cd process_-visual.py`
 
 Install dependencies:
 
